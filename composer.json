@@ -1,6 +1,6 @@
 {
     "name": "wimski/curl",
-    "description": "cURL",
+    "description": "A simple wrapper for cURL to use with DI and OOP",
     "keywords": ["curl"],
     "homepage": "https://github.com/wimski/curl",
     "type": "library",
