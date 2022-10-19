@@ -167,7 +167,6 @@ class CurlResourceTest extends TestCase
      */
     public function it_closes_the_handle(): void
     {
-        self::expectError();
         self::expectErrorMessage('Typed property Wimski\Curl\CurlResource::$handle must not be accessed before initialization');
 
         $this->setUpCurlMocks();
