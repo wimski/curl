@@ -1,3 +1,7 @@
+[![PHPStan](https://github.com/wimski/curl/actions/workflows/phpstan.yml/badge.svg)](https://github.com/wimski/curl/actions/workflows/phpstan.yml)
+[![PHPUnit](https://github.com/wimski/curl/actions/workflows/phpunit.yml/badge.svg)](https://github.com/wimski/curl/actions/workflows/phpunit.yml)
+[![Coverage Status](https://coveralls.io/repos/github/wimski/curl/badge.svg?branch=master)](https://coveralls.io/github/wimski/curl?branch=master)
+
 # cURL
 
 A simple wrapper for cURL to use with DI and OOP.
